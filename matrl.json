@@ -1,11 +1,11 @@
 [
-      {
+    {
 		"name": "Mtrl 01",
 		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_01.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_01.jpg",
 		"dimensions": "1080x2160"
 	},
-      {
+    {
   		"name": "Mtrl 02",
   		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_02.jpg",
   		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_02.jpg",
@@ -69,6 +69,78 @@
   		"name": "Mtrl 12",
   		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_12.jpg",
   		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_12.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 13",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_13.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_13.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 14",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_14.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_14.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 15",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_15.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_15.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 16",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_16.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_16.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 17",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_17.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_17.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 18",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_18.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_18.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 19",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_19.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_19.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 20",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_20.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_20.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 21",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_21.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_21.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 22",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_22.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_22.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 23",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_23.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_23.jpg",
+  		"dimensions": "1080x2160"
+	},
+	{
+  		"name": "Mtrl 24",
+  		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_24.jpg",
+  		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_24.jpg",
   		"dimensions": "1080x2160"
 	}
 ]
