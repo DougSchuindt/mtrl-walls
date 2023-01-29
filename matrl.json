@@ -1,11 +1,11 @@
 [
-    {
+        {
 		"name": "Mtrl 01",
 		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_01.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_01.jpg",
 		"dimensions": "1080x2160"
 	},
-    {
+        {
   		"name": "Mtrl 02",
   		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_02.jpg",
   		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_02.jpg",
@@ -142,5 +142,41 @@
   		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_24.jpg",
   		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_24.jpg",
   		"dimensions": "1080x2160"
-	}
+	},
+	{
+		"name": "Mtrl 25",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_25.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_25.jpg",
+		"dimensions": "1080x2160"
+        },
+        {
+		"name": "Mtrl 26",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_26.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_26.jpg",
+		"dimensions": "1080x2160"
+        },
+        {
+  		"name": "Mtrl 27",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_27.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_27.jpg",
+		"dimensions": "1080x2160"
+        },
+        {
+		"name": "Mtrl 28",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_28.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_28.jpg",
+		"dimensions": "1080x2160"
+        },
+        {
+		"name": "Mtrl 29",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_29.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_29.jpg",
+		"dimensions": "1080x2160"
+        },
+         {
+		"name": "Mtrl 30",
+		"url": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/walls/mtrl_30.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/mtrl-walls/main/thumb/thumb_30.jpg",
+		"dimensions": "1080x2160"
+        }
 ]
